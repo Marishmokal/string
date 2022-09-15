@@ -5,6 +5,7 @@ public class Addition {
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
 		int[]a=new int[5];
+		//array declaration
 		
 		int sum=0;
 		for(int i=0;i<a.length;i++)
